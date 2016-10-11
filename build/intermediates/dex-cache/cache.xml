@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\bcarr\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\17.0\463f8378feba44df7ba7cd9272d01837dad62b36\guava-jdk5-17.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="463f8378feba44df7ba7cd9272d01837dad62b36">
+        <dex dex="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-jdk5-17.0_28a981bd9aaad6fffc0fb4efba8e87c4483d8360\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_ff699b72c4fbf3ec3dcc18edd03e9acdc16ed5a0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\libs\gdata-client-1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1fb686d98aa8eee63a7bc4c4e00d04618409f284">
+        <dex dex="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\build\intermediates\transforms\dex\debug\folders\1000\2\gdata-client-1.0_d4ef021711582a8a5d64cd058ccbf58749f96478\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.0.2_fc6adfa8038f2958b1b1ae9dfaa62a9b64d03335\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="060a7157438a0b1b0706b99c430fb3ecbc5a79a4">
+        <dex dex="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.0.2_db1b219f2289694a600c561608e132889ef5c439\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b4be3e0956042f2e2f6bcfb449a395b09b719128">
+        <dex dex="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c0ba0c41c1a87d3a9b782e1bc8ffaf1a46bb3d33\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\libs\gdata-photos-1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3c43b4c072e175ae2b142136b5c22bfdc4cdcb12">
+        <dex dex="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\build\intermediates\transforms\dex\debug\folders\1000\2\gdata-photos-1.0_55537ed33fe464be551ed9b9a4ff3a2e27c7fe32\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\bcarr\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client-android\1.22.0\7a0fe12b7d8189a821934d6f9d6586d00180e461\google-api-client-android-1.22.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7a0fe12b7d8189a821934d6f9d6586d00180e461">
+        <dex dex="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-client-android-1.22.0_1dee9aaf76ffa18c030c4e7e48fa16e8bbe1f39b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\bcarr\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.22.0\d441fc58329c4a4c067acec04ac361627f66ecc8\google-http-client-1.22.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d441fc58329c4a4c067acec04ac361627f66ecc8">
+        <dex dex="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-1.22.0_de3e9ad187ef88781da56e015d326d8f4e0ddcce\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\bcarr\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_d7026926cd11158a1e653391e7d0362314bd9a26\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\libs\mail.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\build\intermediates\transforms\dex\debug\folders\1000\2\mail_ee7aba82cde42841cb14ec9001d35372c1d2e67e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\bcarr\.gradle\caches\modules-2\files-2.1\com.google.apis\google-api-services-sheets\v4-rev22-1.22.0\6d0bb1e27bac96b1a0980ca8ec3d87513ebad3f6\google-api-services-sheets-v4-rev22-1.22.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6d0bb1e27bac96b1a0980ca8ec3d87513ebad3f6">
+        <dex dex="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-services-sheets-v4-rev22-1.22.0_faefee433682b54159db3a720d422e1e389e3008\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\bcarr\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.22.0\cc014d64ae11117e159d334c99d9c246d9b36f44\google-http-client-jackson2-1.22.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cc014d64ae11117e159d334c99d9c246d9b36f44">
+        <dex dex="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-jackson2-1.22.0_2e079bef4b243b9273ac55d33a3c4a82dd37ce36\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f1a47bd7b57394d560eb85215f6bef48b4e46fe6">
+        <dex dex="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_70e6b4207c9f07a5395051d40910951cc1072122\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\libs\gdata-base-1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b35c9037fe61f01872b05e5517e488aa3584eabf">
+        <dex dex="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\build\intermediates\transforms\dex\debug\folders\1000\2\gdata-base-1.0_4197919395ec5c392913773ba30e381367aa9500\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_1c090f4fdb95d01821f34ec9fe7f5079789a4101\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\libs\gdata-calendar-1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b153b28a0632701b3d4bd47bea55a268c9d86de3">
+        <dex dex="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\build\intermediates\transforms\dex\debug\folders\1000\2\gdata-calendar-1.0_3dcf13d2dc977357726f8b6bf25affd543f26600\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_041f03955517c7d6459d17efcf95e41f03f76d00\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\build\intermediates\exploded-aar\com.android.support\percent\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6e7040af4ab4aa797cbf6e6eacf94fcf241ae8f0">
+        <dex dex="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-percent-23.1.0_8cd836c0b091874c3188967fcaf8380a8871e52b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\bcarr\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.1.3_dde9ff03165fddb675c2c7dc59439bd73c515373\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.0.2_ec38e8f5fe09593f1d19c7c5e2f586baf247893d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\bcarr\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-1.3.9_90581a56f85619a8deeaa52d45b9213309f3ea70\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.0.2_b7db9e8b53e333512897833b4f5a1731f12b8f1e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\libs\gdata-appsforyourdomain-1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fb5f498bb2e5e36f303463120fb6e5e83fdf8070">
+        <dex dex="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\build\intermediates\transforms\dex\debug\folders\1000\2\gdata-appsforyourdomain-1.0_bef78286cb1aa0f5ad0475284cc74fb14d6e9fe4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\bcarr\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.22.0\244350c0c845c583717ade13f5666a452fd0cfa\google-api-client-1.22.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0244350c0c845c583717ade13f5666a452fd0cfa">
+        <dex dex="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-client-1.22.0_1ea41010193ddc2b0048b5f50b51fe24d370fb2e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.0.2_2bb5420f66e2314e93659155c57e011a1d5946fe\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\bcarr\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.22.0\1d63f369ac78e4838a3197147012026e791008cb\google-oauth-client-1.22.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1d63f369ac78e4838a3197147012026e791008cb">
+        <dex dex="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-oauth-client-1.22.0_902f86924a65eef49cbd874af514ff77f351673b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\libs\gdata-codesearch-1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4949eb8f37e629e62a1d3c56bcf2c52589770037">
+        <dex dex="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\build\intermediates\transforms\dex\debug\folders\1000\2\gdata-codesearch-1.0_6d86ef2647b3cbf123eb2942af41905ec80eb3e3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_8e9f4a0fac0dc57bc0a9c812d23e876253e03ec7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\build\intermediates\exploded-aar\pub.devrel\easypermissions\0.1.5\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2ffd97c466e0021572f3c7333839c71ecdf393ed">
+        <dex dex="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\build\intermediates\transforms\dex\debug\folders\1000\10\pub.devrel-easypermissions-0.1.5_2f64d0bcb46b4d3135f2589f8077e08c222d25a8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\bcarr\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-android\1.22.0\6d1e1a76a16a244ab2f41775791be1dd0ec2878a\google-http-client-android-1.22.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6d1e1a76a16a244ab2f41775791be1dd0ec2878a">
+        <dex dex="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-android-1.22.0_d6a74146b1f90d9ec49bdbadb73e426d13b25d76\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\libs\gdata-spreadsheet-1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8d4ae64feb82e2ded69b726fcfe18f8324af702f">
+        <dex dex="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\build\intermediates\transforms\dex\debug\folders\1000\2\gdata-spreadsheet-1.0_5a99a5afaf16ab31018a9a7afdee46b274da2ec6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_272a17b5440d644941538235361155534d7b6e6f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="829c6e46cb221c2102801221c648b77113743e81">
+        <dex dex="C:\Users\bcarr\Desktop\AOVirtualReceptionist21\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.0.2_668df4cddda03d25542696165ccb463d63d0dae7\classes.dex" />
+    </item>
+
+</items>
